@@ -1,0 +1,11 @@
+EmployeeID,Age,Gender,JobTitle,Department,YearsInCompany,PreferredWorkDays,PreferredWorkHours,WorkloadSatisfaction,WeeklyHoursWorked,StressLevel,OverallSatisfaction,PromotionLast12Months,AchievedGoals,WorkLifeBalance,RemoteWorkDays,ConsideringLeaving,ReasonsForLeaving
+1,29,Male,Software Engineer,IT,3,Mon-Fri,9 AM - 5 PM,4,40,2,4,Yes,3,3,2,No,N/A
+2,34,Female,Project Manager,HR,5,Mon-Fri,10 AM - 6 PM,5,38,3,5,No,4,4,1,Yes,Job dissatisfaction
+3,41,Male,Data Scientist,Analytics,7,Mon-Fri,8 AM - 4 PM,3,45,4,3,Yes,2,2,3,No,N/A
+4,28,Female,Marketing Specialist,Marketing,2,Tue-Sat,11 AM - 7 PM,2,42,5,4,Yes,5,3,0,Yes,Looking for better opportunities
+5,36,Male,HR Specialist,HR,4,Mon-Fri,9 AM - 5 PM,3,40,3,5,No,3,4,1,No,N/A
+6,31,Female,Business Analyst,IT,6,Mon-Fri,9 AM - 5 PM,4,40,2,4,Yes,4,3,1,No,N/A
+7,45,Male,DevOps Engineer,IT,8,Mon-Fri,8 AM - 4 PM,4,48,3,5,No,4,5,0,No,N/A
+8,39,Female,Sales Manager,Sales,10,Mon-Fri,9 AM - 5 PM,5,50,2,4,Yes,3,2,2,Yes,Better work-life balance
+9,26,Male,Graphic Designer,Design,1,Mon-Fri,10 AM - 6 PM,4,40,2,3,No,2,3,0,No,N/A
+10,37,Female,Content Writer,Marketing,3,Mon-Fri,9 AM - 5 PM,3,35,3,4,Yes,4,4,2,No,N/A
